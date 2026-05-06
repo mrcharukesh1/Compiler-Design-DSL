@@ -19,12 +19,3 @@ Thumbs.db
 .idea/
 *.swp
 *~
-
-compiler
-lex.yy.c
-parser.tab.c
-parser.tab.h
-*.o
-
-output/*.s
-output/executable
