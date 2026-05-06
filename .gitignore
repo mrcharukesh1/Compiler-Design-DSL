@@ -1,0 +1,30 @@
+# Generated files
+src/lex.yy.c
+src/parser.tab.c
+src/parser.tab.h
+src/*.o
+src/compiler
+
+# Output artifacts
+output/output.ll
+output/output.s
+output/executable
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+compiler
+lex.yy.c
+parser.tab.c
+parser.tab.h
+*.o
+
+output/*.s
+output/executable
